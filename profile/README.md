@@ -15,3 +15,4 @@ Well, I (vedal789) am a turtle, and I came up with a miss spelling of turtle, wh
 # 👤 Developers/Contributers:
 ### [vedal789](https://github.com/vedal789) (Owner, Developer, Admin)
 ### [FloppyDisc-OSC](https://github.com/FloppyDisc-OSC) (Developer, Admin)
+### [dotun](https://github.com/thedotun) (Developer)
